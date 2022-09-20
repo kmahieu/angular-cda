@@ -6,6 +6,11 @@ export const environment = {
   production: false
 };
 
+export const API_URL = 'https://cda.tr/'
+export const API_URL_USER = 'https://cda.tr/user'
+export const API_URL_CATEGORIE = 'https://cda.tr/categories'
+export const API_URL_ARTICLE = 'https://cda.tr/articles'
+
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
