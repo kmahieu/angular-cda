@@ -1,0 +1,7 @@
+{
+  "name": "angular-cda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
