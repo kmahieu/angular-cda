@@ -1,5 +1,5 @@
-import { User } from '../models/User';
-import { Categorie } from '../models/Categorie';
+import { User } from './User';
+import { Categorie } from './Categorie';
 
 export class Article {
     constructor(
